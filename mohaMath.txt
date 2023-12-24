@@ -7,4 +7,4 @@ readData(df):
  pd.convert_to_numpy(pf.replace)
 
 loadData(path):
- get_pathfrom_user
+ let_userInput_path
