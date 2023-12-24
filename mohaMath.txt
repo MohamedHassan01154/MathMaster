@@ -1,0 +1,10 @@
+print(hello)
+
+
+readData(df):
+ pd.read_csv(df.head(10))
+
+ pd.convert_to_numpy(pf.replace)
+
+loadData(path):
+ get_pathfrom_user
