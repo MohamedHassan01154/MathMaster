@@ -1,2 +1,8 @@
 multi(x,y):
  print(x*y)
+
+
+
+multi_power_2(x,y)
+ x = multi(x,y)
+ print( x*x )
