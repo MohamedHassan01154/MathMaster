@@ -6,5 +6,5 @@ readData(df):
 
  pd.convert_to_numpy(pf.replace)
 
-loadData(path):
+search_on_the_path(path_to_datafiles):
  get_pathfrom_user
