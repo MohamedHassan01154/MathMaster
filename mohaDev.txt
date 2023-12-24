@@ -3,6 +3,11 @@ multi(x,y):
 
 
 
-multi_power_2(x,y)
+multi_power_2(x,y):
  x = multi(x,y)
  print( x*x )
+
+
+multi_root(x,y):
+ x = multi(x,y)
+ print(root(x))
