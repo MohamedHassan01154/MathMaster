@@ -1,2 +1,6 @@
 sum(x,y):
  print(x+y)
+
+sum_power_2(x,y):
+ x = sum(x,y)
+ print( x*x )
